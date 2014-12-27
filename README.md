@@ -18,7 +18,7 @@ Pouvoir lister dans un seul dashboard la liste des issues par repos (projet) enc
 
 Exemple : 
 ---------
-''' javascript
+'''
 <script>
 function printRepoCount() {
   var responseObj = JSON.parse(this.responseText);
