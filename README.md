@@ -1,0 +1,4 @@
+GithubManager
+=============
+
+Un dashboard personalisé.
